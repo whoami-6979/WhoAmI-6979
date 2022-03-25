@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WhoAm-i-6979
 - 👀 I’m interested in Cubing
 - 🌱 I’m currently learning Game Development
-- 💞️ I’m looking to collaborate on Graphics design
+- 💞️ I’m looking to collaborate with animators
 - 📫 How to reach me :- instagram-who_am_i_6979
 
 <!---
