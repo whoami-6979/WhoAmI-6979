@@ -1,7 +1,7 @@
 <h1 align="center">Yo 👋, I'm Satyajit aka WhoAmI</h1>
 <h3 align="center">Chill!! i am just learning Game Development.</h3>
 
-<img aling="center" alt="WhoAmI6979" width="500" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Y3b3lyNnN1NW43Z2Q1b2kwcXRhYzlhNDd6emIxdmVsZXZxNnVqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/K4q2Cw7CWHPJYPJW1M/giphy.gif">
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=whoami-6979" alt="whoami-6979" /></a> </p>
 
